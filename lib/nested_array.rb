@@ -38,5 +38,5 @@ def matrix_update(matrix, row, column, new_value)
   # Update the matrix location at that row and column to have the value of new_value
   # Return the updated matrix
 pp matrix[row][column] = new_value
-pp matrix[row][column]
+pp new_value
 end
